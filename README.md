@@ -1,10 +1,10 @@
 ### Hi there 👋
 Im Vick, Welcome to My Github page.
 
-##About me!
+## About me!
 I'm a full stack developer
 
-##Links
+## Links
 [TWITTER](https://twitter.com/vckouma)
 
 <!--
