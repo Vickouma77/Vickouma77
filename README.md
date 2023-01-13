@@ -4,7 +4,7 @@ Im Vick, Welcome to My Github page.
 ## About me!
 I'm a full stack developer :car:
 
-Software engineering student :smile:
+Software engineering :smile:
 
 🌱 I’m currently learning
 
