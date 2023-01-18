@@ -3,7 +3,8 @@ Im Vick, Welcome to My Github page.
 
 ## About me!
 I'm a full stack developer:car:
-I love solving problems ⚛️:
+
+I love solving problems ⚛️
 
 Software engineering :smile:
 
