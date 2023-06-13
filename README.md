@@ -6,8 +6,6 @@ I'm a full stack developer:car:
 
 I love solving problems ⚛️
 
-👯 I’m looking to collaborate on awsome projects
-
 Software engineering :smile:
 
 🌱 I’m currently learning :rocket:
