@@ -33,7 +33,7 @@ Im Vick, Welcome to My Github page.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
 
 ## Find me online 🌎:
 ![Github](https://img.shields.io/badge/-Vick-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vickouma77/)   ![Link](https://img.shields.io/badge/-Vick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vickouma/)   ![Twitter](https://img.shields.io/badge/-Vckouma-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Vckouma)
