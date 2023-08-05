@@ -71,7 +71,7 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vickouma77)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vickouma77)](https://github.com/Vickouma77/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
