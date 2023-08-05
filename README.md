@@ -1,6 +1,10 @@
 # Hi there 👋
 Im Vick, Welcome to My Github page.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ## About me!
 I'm a full stack developer:car:
 
