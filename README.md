@@ -1,8 +1,8 @@
-# Hi there 👋
-Im Vick, Welcome to My Github page.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-
-## About me!
+<h2> Hi, I'm Vick Preston Ouma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ```yaml
 - name: Vick Preston Ouma
