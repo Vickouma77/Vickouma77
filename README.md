@@ -54,6 +54,15 @@ Im Vick, Welcome to My Github page.
 ## Find me online 🌎:
 ![Github](https://img.shields.io/badge/-Vick-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vickouma77/)   ![Link](https://img.shields.io/badge/-Vick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vickouma/)   ![Twitter](https://img.shields.io/badge/-Vckouma-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Vckouma)
 
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <!--
 **Vickouma77/Vickouma77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
