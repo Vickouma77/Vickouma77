@@ -23,6 +23,13 @@
   ]
 ```
 
+<h2> 📫 &nbsp;How to reach me:</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vick-prestone-ouma-0b0b3a1b0/"><img src="https://img.shields.io/badge/-Vick%20Prestone%20Ouma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/vckouma"><img src="https://img.shields.io/badge/-@vckouma-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="instagram.com/vickouma77"><img src="https://img.shields.io/badge/-@vickouma77-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="Vickprestone20@gmail.com"><img src="https://img.shields.io/badge/-@vickouma77-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 ## Tech Stack🔭:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
@@ -49,10 +56,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
-
-## Find me online 🌎:
-![Github](https://img.shields.io/badge/-Vick-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vickouma77/)   ![Link](https://img.shields.io/badge/-Vick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vickouma/)   ![Twitter](https://img.shields.io/badge/-Vckouma-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Vckouma)
-
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
