@@ -6,11 +6,16 @@ Im Vick, Welcome to My Github page.
 
 ```yaml
 - name: Vick Preston Ouma
-  languages: [Javascript, HTML, CSS, Python, C, SQL]
-  tools: [Node, Express, Flask, Git, Github, VSCode, Postman]
-  databases: [MongoDB, MySQL]
-  misc: [Linux, Bash]
-  currently_learning: [React, Typescript, Docker, Kubernetes]
+  age: 23
+  address: Nairobi, Kenya
+  currently_learning: 
+  [
+    "Docker",
+    "Kubernetes",
+    "React",
+    "Redis",
+  ]
+
   fields_of_interests:
   [
     "Full-stack Web Development",
