@@ -70,14 +70,7 @@
 </p>
 
 
-
-
-
-
-
-
-
-
+---
 <p align="left">
 <a href="https://github.com/Vickouma77?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Vickouma77?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
@@ -87,8 +80,6 @@
 </a>
 <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=Vickouma77&style=for-the-badge&color=blue"/>
 </p>
-
-  
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
