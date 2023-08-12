@@ -24,7 +24,6 @@
 ```
 
 <h2> 📫 &nbsp;How to reach me:</h2>
-
 <p align="left">
 <a href="https://www.linkedin.com/in/vick-prestone/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -68,7 +67,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
 </p>
-
 
 ---
 <p align="left">
