@@ -13,6 +13,7 @@
     "Kubernetes",
     "React",
     "Redis",
+    "C++",
   ]
 
   fields_of_interests:
