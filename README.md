@@ -14,6 +14,7 @@
     "React",
     "Redis",
     "C++",
+    "django",
   ]
 
   fields_of_interests:
