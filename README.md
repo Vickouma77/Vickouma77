@@ -13,7 +13,6 @@
     "Kubernetes",
     "React",
     "Redis",
-    "C++",
     "django",
   ]
 
