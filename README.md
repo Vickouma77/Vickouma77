@@ -14,6 +14,7 @@
     "React",
     "Redis",
     "django",
+    "Vue",
   ]
 
   fields_of_interests:
