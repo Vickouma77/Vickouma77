@@ -11,7 +11,6 @@
   [
     "Docker",
     "Kubernetes",
-    "React",
     "Redis",
     "django",
     "Vue",
