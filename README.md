@@ -13,6 +13,7 @@
     "Kubernetes",
     "django",
     "Vue",
+    "React",
   ]
 
   fields_of_interests:
