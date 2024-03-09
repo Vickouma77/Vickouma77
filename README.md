@@ -9,7 +9,6 @@
   address: Nairobi, Kenya
   currently_learning: 
   [
-    "Docker",
     "Kubernetes",
     "django",
     "React",
