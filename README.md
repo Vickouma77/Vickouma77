@@ -9,6 +9,7 @@
   address: Nairobi, Kenya
   currently_learning: 
   [
+    "Rust",
     "Kubernetes",
     "django",
     "React",
