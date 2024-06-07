@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<h2> I'm Vick Prestone Ouma <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="65"></h2>
+<h2> I'm Vick Preston <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="65"></h2>
 
 ```yaml
 - name: Vick Preston Ouma
@@ -11,8 +11,7 @@
   [
     "Rust",
     "Kubernetes",
-    "django",
-    "React",
+    "Kotlin",
   ]
 
   fields_of_interests:
