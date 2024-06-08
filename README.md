@@ -13,13 +13,6 @@
     "Kubernetes",
     "Kotlin",
   ]
-
-  fields_of_interests:
-  [
-    "Full-stack Web Development",
-    "Cyber Security",
-    "DevOps",
-  ]
 ```
 
 <h2> 📫 &nbsp;How to reach me:</h2>
