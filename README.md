@@ -3,17 +3,7 @@
 </p>
 <h2> I'm Vick Preston <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="65"></h2>
 
-```yaml
-- name: Vick Preston Ouma
-  age: 23
-  address: Nairobi, Kenya
-  currently_learning: 
-  [
-    "Rust",
-    "Kubernetes",
-    "Kotlin",
-  ]
-```
+
 
 <h2> 📫 &nbsp;How to reach me:</h2>
 <p align="left">
