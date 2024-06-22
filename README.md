@@ -21,6 +21,8 @@
 </a>
 </p>
 
+
+<h1 align="center">My Stack</h1>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 
