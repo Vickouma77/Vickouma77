@@ -3,7 +3,6 @@
 </p>
 <h2 align="center"> I'm Vick Preston <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="65"></h2>
 
----
 <p align="center">
 <a href="https://github.com/Vickouma77?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Vickouma77?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
