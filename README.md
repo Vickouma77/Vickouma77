@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 <h2 align="center"> I'm Vick Preston <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="65"></h2>
@@ -14,4 +14,4 @@
 </p>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> -->
